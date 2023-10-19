@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <Course></Course>
+      {/* <Course></Course> */}
       <Home></Home>
     </>
   )

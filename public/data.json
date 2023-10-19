@@ -19,7 +19,7 @@
       "id": 3,
       "title": "Introduction to C++ for DSA",
       "image": "https://i.ibb.co/xDggNrS/Rectangle-2-4.png",
-      "description":"Introduces C++ programming with a focus on Data Structures Algorithms implementation.",
+      "description":"Introduces C++ programming with a focus on Alg implementation.",
       "price": 10000,
       "credit": 10
     },
